@@ -1,0 +1,21 @@
+{
+  "name": "typeorm-transactional-als",
+  "version": "0.0.1",
+  "description": "A transactional decorator for TypeORM, using Async Local Storage in place of the legacy cls-hooked.",
+  "main": "index.ts",
+  "repository": "https://github.com/Kamilczak020/typeorm-transactional-als",
+  "author": "Kamil Solecki <kamilczak020@gmail.com>",
+  "license": "MIT",
+  "tags": [
+    "typescript",
+    "typescript-orm",
+    "typeorm",
+    "orm",
+    "async-hooks",
+    "transaction",
+    "decorator"
+  ],
+  "engines": {
+    "node": ">=13.10.0"
+  }
+}
